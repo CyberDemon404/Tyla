@@ -21,9 +21,9 @@
 
 <p>python2 Tyla.py</p>
 
-<p>USERNAME:<h1>DEMON</h1></p>
+<p>USERNAME:<h1>Demon</h1></p>
 
-<p>PASSWORD:<h1>TYLA</h1></p>
+<p>PASSWORD:<h1>Tyla</h1></p>
 
 
 
